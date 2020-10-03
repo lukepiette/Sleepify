@@ -1,4 +1,2 @@
-# Sleep_Cycle_Inducer
-I built this algorithm to track my brain waves while I sleep, and induce different sleep cycles with sound. It helped me sleep 20% less while feeling the same amount rested.
-
-This program requires EEG streaming from the Muse Headband
+# Sleepify
+This measures my EEG while I sleep and induces deeper + lighter sleep cycles with sound. 
